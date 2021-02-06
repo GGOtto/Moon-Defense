@@ -1,4 +1,5 @@
 # Moon-Defense
+You'll need pygame to play. 
 
 How to play:
 - Your goal is to destroy as many rockets as possible before a rocket comes all the way to your level.
